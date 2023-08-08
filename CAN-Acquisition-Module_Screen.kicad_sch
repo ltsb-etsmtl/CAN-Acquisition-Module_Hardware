@@ -1,0 +1,18 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 1494bca3-1f12-4260-8a00-f81c050dadf1)
+
+  (paper "A4")
+
+  (title_block
+    (title "CANbus Acquisition Module")
+    (date "2022-06-01")
+    (rev "A1")
+    (company "École de Technologie Supérieure - Laboratoire thermique et science du bâtiment (LTSB)")
+    (comment 1 "Designer: Hugo Boyce")
+  )
+
+  (lib_symbols
+  )
+
+)
